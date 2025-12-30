@@ -94,7 +94,7 @@
 
             <div class="col-12">
               <small class="text-muted">
-                Note: Monthly prices must be set in admin panel (Monthly Prices) or phpMyAdmin.
+                Note: Monthly prices must be set in Whale Watching Mirissa
               </small>
             </div>
           </div>
